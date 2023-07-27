@@ -1,12 +1,16 @@
 # Vitest/Sveltekit Import issue
 
+## Install
+```bash
+npm install
+```
+
 ## Building
 
 To build the test app app:
 
 ```bash
 cp .env.example .env
-npm run build
 ```
 
 ## Running (this will work)
