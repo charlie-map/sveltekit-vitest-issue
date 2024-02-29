@@ -1,4 +1,5 @@
 # Vitest/Sveltekit Import issue
+### [Sveltekit ticket (#10446)](https://github.com/sveltejs/kit/issues/10446)
 
 ## Install
 ```bash
